@@ -34,7 +34,7 @@
 |                      | Group |  Is  | IIs  | IIIs|  Ip       |  IIp     | IIIp
 |----------------------|-------|------|------|-----|-----------|----------|-----
 | *[VOWEL][cer\|cir]:  | Is    | -zco | -es  | -e  | -(e/i)mos | -(éi/í)s | -en
-| *[ger|gir]:          | Is    | -jo  | -es  | -e  | -(e/i)mos | -(éi/í)s | -en
+| *[ger\|gir]:         | Is    | -jo  | -es  | -e  | -(e/i)mos | -(éi/í)s | -en
 | -guir:               | Is    | -go  | -es  | -e  | -imos     | -ís      | -en
 | *[!VOWEL][cer\|cir]: | Is    | -zo  | -es  | -e  | -(e/i)mos | -(éi/í)s | -en
 | -uir:                | +y    | -yo  | -yes | -ye | -imos     | -ís      | -yen
