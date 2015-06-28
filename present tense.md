@@ -101,6 +101,8 @@
 * revolver: o>ue; to shake
 * soler: o>ue; to be accustomed to
 
+-----
+
 * torcer(se): o>ue; cer>zo (Is); to twist
 * cocer: o>ue; cer>zo (Is); to cook
 
