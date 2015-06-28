@@ -137,6 +137,18 @@ vestir(se): to dress, to get dressed
 
 Indicative words:
 
-al mediodía, de vez en cuando, el lunes, el martes, esta semana, este mes, hoy,
-los lunes, los martes, nunca, por la mañana, por la noche, por lar tarde,
-siempre, todos los días
+* al mediodía
+* de vez en cuando
+* el lunes
+* el martes
+* esta semana
+* este mes
+* hoy
+* los lunes
+* los martes
+* nunca
+* por la mañana
+* por la noche
+* por lar tarde
+* siempre
+* todos los días
