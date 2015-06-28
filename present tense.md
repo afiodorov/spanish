@@ -67,7 +67,7 @@
 * querer: e>ie: to love, to want
 
 
-### ar u>ue
+### -ar u>ue
 
 * jugar (a): u>ue; to play
 
