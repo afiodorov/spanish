@@ -1,4 +1,4 @@
-Welcome to a cheat sheet of Spanish Rules
+Welcome to a cheat sheet of Spanish Grammar
 
 See:
 
