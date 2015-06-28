@@ -145,7 +145,7 @@
 * near future (I will...)
 * requesting permission/opinion/preference
 * hace + [time expression] + que for actions that began in the past and
-  continue in the present (Have been...)
+  continue in the present (have been...)
 
 Indicative words:
 
