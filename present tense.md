@@ -30,11 +30,14 @@
 | oler:  |          | huelo  | hueles | huele | -emos | -éis   | huelen | to smell
 
 ### Spelling changes
-*[VOWEL][cer|cir]: Is; -zco, -es, -e, -(e/i)mos, -(éi/í)s, -en
-*[ger|gir]: Is; -jo, -es, -e, -(e/i)mos, -(éi/í)s, -en
--guir: Is; -go; -es, -e, -imos, -ís, -en
-*[!VOWEL][cer|cir]: Is; -zo, -es, -e, -(e/i)mos, -(éi/í)s, -en
--uir: +y; -yo, -yes, -ye, -imos, -ís, -yen
+
+|                      | Group |  Is  | IIs  | IIIs|  Ip       |  IIp     | IIIp
+|----------------------|-------|------|------|-----|-----------|----------|-----
+| *[VOWEL][cer\|cir]:  | Is    | -zco | -es  | -e  | -(e/i)mos | -(éi/í)s | -en
+| *[ger|gir]:          | Is    | -jo  | -es  | -e  | -(e/i)mos | -(éi/í)s | -en
+| -guir:               | Is    | -go  | -es  | -e  | -imos     | -ís      | -en
+| *[!VOWEL][cer\|cir]: | Is    | -zo  | -es  | -e  | -(e/i)mos | -(éi/í)s | -en
+| -uir:                | +y    | -yo  | -yes | -ye | -imos     | -ís      | -yen
 
 ### -ar/-er e>ie
 acertar: e>ie; to guess
