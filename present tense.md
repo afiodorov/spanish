@@ -11,7 +11,7 @@
 ## Irregular verbs
 
 |        | Group    | Is     | IIs   | IIIs  |  Ip    |  IIp   | IIIp   | Meaning
-| :----: |----------|------  |------ |------ |--------|--------|--------|
+| :----: |----------|------  |------ |------ |--------|--------|--------| ------
 | caber: | Is       | quepo  | -es   | -e    | -emos  | -éis   | -en    |
 | caer:  | Is       | caigo  | -es   | -e    | -emos  | -éis   | -en    |
 | dar:   | Is/IIp-á | doy    | -as   | -a    | -amos  | dais   | -an    |
