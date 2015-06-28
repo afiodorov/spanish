@@ -10,7 +10,7 @@
 
 ## Irregular verbs
 
-|        | Is| IIs| IIIs|  Ip  |  IIp| IIIp
+|        | Is| IIs| IIIs|  Ip  |  IIp| IIIp | Meaning
 | :----: |---|----|-----|------|-----|-----
 | caber: | Is; quepo | -es | -e | -emos | -éis | -en
 | caer:  | Is; caigo | -es | -e | -emos | -éis | -en
@@ -27,7 +27,7 @@
 | ser:   | soy | eres | es | somos | sois | son
 | tener: | tengo | tienes | tiene | -emos | -éis | tienen
 | venir: | vengo | vienes | viene | -imos | -ís | vienen
-| oler:  | huelo | hueles | huele | -emos | -éis | huelen; to smell
+| oler:  | huelo | hueles | huele | -emos | -éis | huelen | to smell
 
 ### Spelling changes
 *[VOWEL][cer|cir]: Is; -zco, -es, -e, -(e/i)mos, -(éi/í)s, -en
