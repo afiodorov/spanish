@@ -10,22 +10,22 @@
 
 ## Irregular verbs
 
-caber: Is; quepo | -es | -e | -emos | -éis | -en
-caer: Is; caigo | -es | -e | -emos | -éis | -en
-dar: Is/IIp-á; doy | -as | -a | -amos | dais | -an
-estar: Is/+á; estoy | estás | está | -amos | estáis | están
-hacer: Is; hago | -es | -e | -emos | -éis | -en
-poner: Is; pongo | -es | -e | -emos | -éis | -en
-saber: Is; sé | -es | -e | -emos | -éis | -en
-salir: Is; salgo | -es | -e | -imos | -ís | -en
-traer: Is; traigo | -es | -e | -emos | -éis | -en
-valer: Is; valgo | -es | -e | -emos | -éis | -en
-ver: Is/IIp-é; veo | -es | -e | -emos | veis | -en
-decir: digo | dices | dice | -imos | -ís | dicen
-ser: soy | eres | es | somos | sois | son
-tener: tengo | tienes | tiene | -emos | -éis | tienen
-venir: vengo | vienes | viene | -imos | -ís | vienen
-oler: huelo | hueles | huele | -emos | -éis | huelen; to smell
+caber: | Is; quepo | -es | -e | -emos | -éis | -en
+caer:  | Is; caigo | -es | -e | -emos | -éis | -en
+dar:   | Is/IIp-á; doy | -as | -a | -amos | dais | -an
+estar: | Is/+á; estoy | estás | está | -amos | estáis | están
+hacer: | Is; hago | -es | -e | -emos | -éis | -en
+poner: | Is; pongo | -es | -e | -emos | -éis | -en
+saber: | Is; sé | -es | -e | -emos | -éis | -en
+salir: | Is; salgo | -es | -e | -imos | -ís | -en
+traer: | Is; traigo | -es | -e | -emos | -éis | -en
+valer: | Is; valgo | -es | -e | -emos | -éis | -en
+ver:   | Is/IIp-é; veo | -es | -e | -emos | veis | -en
+decir: | digo | dices | dice | -imos | -ís | dicen
+ser:   | soy | eres | es | somos | sois | son
+tener: | tengo | tienes | tiene | -emos | -éis | tienen
+venir: | vengo | vienes | viene | -imos | -ís | vienen
+oler:  | huelo | hueles | huele | -emos | -éis | huelen; to smell
 
 ### Spelling changes
 *[VOWEL][cer|cir]: Is; -zco, -es, -e, -(e/i)mos, -(éi/í)s, -en
