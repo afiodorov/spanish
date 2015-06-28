@@ -1,9 +1,9 @@
 ## Indicative Mood
 
 # Present Tense
--ar: -o, -as, -a, -amos, -áis, -an
--er: -o, -es, -e, -emos, -éis, -en
--ir: -o, -es, -e, -imos, -ís, -en
+-ar:|-o,|-as,|-a,|-amos,|-áis,|-an
+-er:|-o,|-es,|-e,|-emos,|-éis,|-en
+-ir:|-o,|-es,|-e,|-imos,|-ís,|-en
 
 ## Irregular verbs
 caber: Is; quepo, -es, -e, -emos, -éis, -en
