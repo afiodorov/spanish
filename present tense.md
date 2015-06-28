@@ -3,6 +3,7 @@
 # Present Tense
 
 |    |Is|IIs|IIIs| Ip  | IIp|IIIp|
+|----|--|---|----|-----|----|----|
 |-ar:|-o|-as|  -a|-amos|-áis| -an|
 |-er:|-o|-es|  -e|-emos|-éis| -en|
 |-ir:|-o|-es|  -e|-imos| -ís| -en|
